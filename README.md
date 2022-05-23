@@ -31,7 +31,7 @@ Store WhatsApp to Google Spreadsheet
    ```
 3. Clone the repository
    ```sh
-   git clone https://
+   git clone https://github.com/alighufronid/washeet.git
    ```
 4. Adjust the value with your service account key name and spreadsheet id
    ```js

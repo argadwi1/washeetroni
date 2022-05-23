@@ -17,6 +17,7 @@ Store WhatsApp to Google Spreadsheet
   ```sh
   npm install npm@latest -g
   ```
+* [Google sheet API & setup](https://github.com/alighufronid/washeet/blob/master/Google%20Sheet%20Setup.md)
 
 ### Installation
 

@@ -2,7 +2,7 @@
 
 ## Setup API
 
-1. Create new project
+1. Go to https://console.cloud.google.com/ and Create new project
 2. Go to APIs & Services -> Library -> search "Google Sheets API" -> and enable it.
 
     <img src="https://d.alighufron.repl.co/washeet/search_Sheet_API.png" width="599" height="281">

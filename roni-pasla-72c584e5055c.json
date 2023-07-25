@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "roni-pasla",
+  "private_key_id": "72c584e5055c88592143873cca26b4850b70e8a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbCNi/iD0UASfc\nQ9umhVX1a9rNZr8gjaHhd3k1cBhXVH2g04v6+WD2/L17VauZflpvyl4ydBQmGcym\nL16UjLXF4Uh/OqhVtt+G56tj8CWBMTlUGbmlpHyVv1cyT8713/KVcUBzErHjo2VF\nnob8jgbp7nflxUoivHE5hLu/kTG3j+7fseeIPMG7Y6vnNQ4UCYlxLf59z/DO4NU+\n4ahZgBk/DcJw7svKsUHrubzVKxqStqqgY+Gjj/c2sb36/FyvINbXkUntiA+26AxW\nyLLXV1vj8NQFvhPR+ReiUasR2bEX/78oVuK0qlxUPguBrW5fDTRlol7bzuLKGA75\nQd94kWpNAgMBAAECggEADDxJQOp7aYwCzZU0bWK6Cz25HbtVa7gJ1d3EPOWtIh1K\nsenoMwVB9BQzzxtOiPVqJUb7Iq+7FFu2ZUo5RG+LfAPA4Turo+IkJ4U6p09BYn4U\nSHEkT/CYnYfllZSrYIfNYSJ4Q+yuiejwGeu+OwnpfUZjA4kLxgyJwhCZ8a8/lX1A\n113xDN/h7sXNdhMJ2ZYXUpCjeyToF7xtCnZ1K1mS4e2cgbxxCHXyj/VsZ50ncOnE\ntUnywLefD3rbKZhOJftRqLy8Lqn/ERXdnGA4Mtnb3tLBlh64YrZKY+m69IoEx9yq\nRtg82TNlTSvuTNw3FrxYBBQVb1V1noMzWTyhfrPXIQKBgQDM7iSvDXrzxucpkpZc\nxW28PG4YfyIkSQ5cMAcP5pZj5RGYSZtug1C3tMzPFlivlPh2qGfn/qS4R+tKdXSZ\nxe22uzXb3QbkS6xQoDFTS8tNWHLjRU8Ju1g5hSF8/aF09yURMMiUWNnW5uQQBstp\nqDrOirrmDiZW6j7JYh12vLS5YQKBgQDBq4bwWYyekX9Obcm+mkbfcxchgsYjgMKo\nbh6IeLdvUO2BSNk/Q9bU4dtaNi0NgR3oYxu2MwARxqa+IzkAwMOU6nvguXJSdDUn\nMRyoyB0XNbkwt7Ucjaen3rHmeKVnoL1F0R9UNudsw1Mz85/7fFv+XXeAWvviwHDV\nBHC7LQP8bQKBgEx6i4Iw27PihR6EsEzK+VsIimXl/E3iXdOVsO0ENxfswxY8Uh96\nLkOA2/Zk9pAAXoGZ870m0T5cyLivAObqcP6C+2SkJhBJFXO5dO8LGEIzQh0DHq4Z\nFqHQx2CoHvtRyKmTtSd3yURkQrSgdIVn3Rp7t6hnm3NQVEI/tZM8dY3BAoGBAJwr\nY8mGfHUVYHHu6ALxxvrChMF6Aap5Vv6Ypbhol4qE2LAq/TwdySuq4MXS7+t21ZYh\n7SOz5ndvF+A06O9pgY0gtDnXcI96s63h1XlovMSNhsL5MGtQ8wPT+OKfIMn6fQXC\nhx/SkjVLIFnBN52Ef24TEp0HQRxtD89GIF1fBFrVAoGBAKWdR3Vy7SuYV10mD85I\nvR91LajkiknPlnnHP9/1yYh9Hy0khURP3DnMZQM8udUe0xMfXBPx/luNYHin6khK\nVWbvtYZ3ynFiIKJw39X/L3kKnzIUfhgAiMXUWKNT0ij+ngGLRMF8IZeoN80oPdyr\nZges/Ce8UPsGUBhcyOPwL3Xi\n-----END PRIVATE KEY-----\n",
+  "client_email": "ronipasla@roni-pasla.iam.gserviceaccount.com",
+  "client_id": "108510467081855453330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ronipasla%40roni-pasla.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,6 +1,6 @@
 const wa = require('@open-wa/wa-automate');
 
-const KEY_NAME = '/home/argadwiihsanulridha/washeetroni/'
+const KEY_NAME = '/home/argadwiihsanulridha/washeetroni/roni-pasla-72c584e5055c.json'
 const SPREADSHEET_ID = '11l6ntJAIQgEwdmjAuoTGPtIVHUME0FY9o-S-rZ-0NRI'
 
 wa.create().then(client => start(client));

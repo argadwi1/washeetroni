@@ -1,7 +1,7 @@
 const wa = require('@open-wa/wa-automate');
 
 const KEY_NAME = './key.json'
-const SPREADSHEET_ID = '1HuRqW6M-AtvbbT123456qwerty'
+const SPREADSHEET_ID = '11l6ntJAIQgEwdmjAuoTGPtIVHUME0FY9o-S-rZ-0NRI'
 
 wa.create().then(client => start(client));
 
